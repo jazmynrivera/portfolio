@@ -143,12 +143,12 @@ sup {
 
 /*old to new honors image*/
 #card {
-  background: url("images/honors.png") no-repeat;
+  background: url("images/honors.PNG") no-repeat;
   width: 283px;
   height: 400px;
 }
 #card:hover {
-  background: url("images/old-honors.png") no-repeat;
+  background: url("images/old-honors.PNG") no-repeat;
 }
 
 footer{
